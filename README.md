@@ -1,5 +1,35 @@
-• Hi, I’m Pascal <br>
-• I’m interested in Python, Java and Web Development <br>
-• I'm currently searching for members who want to get in a small team <br>
-• How to reach me: <br><br>
- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...)](https://discord.com/users/852617434703855616)
+<h2 align="center"> About me </h2>
+<div align="center">
+<div display="inline-block" text-align="left">
+Hi, I’m Pascal, <br>
+I’m interested in Python, Java and Web Development <br><br>
+</div>
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a)](https://discord.com/users/852617434703855616) -->
+  <img width="49.5%" src="https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a" />
+</div>
+
+
+<br><br>
+
+
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+  <h3>Languages</h3>
+            <p align="center">
+        <a href="https://github.com/Pascal-Projects/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal-Projects&langs_count=6&theme=synthwave&layout=compact&hide_border=true"
+          alt="Pascal-Projects
+ :: overall Top Langs " /></a>
+      </p>
+ <h3>stasistic</h3>
+        <p align="center">
+          <a href="https://github.com/Pascal-Projects/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pascal-Projects&show_icons=true&theme=synthwave&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pascal-Projects&theme=synthwave&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
