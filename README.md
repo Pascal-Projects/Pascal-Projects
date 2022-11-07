@@ -19,14 +19,14 @@ I’m interested in Python, Java and Web Development <br><br>
   <h3>Languages</h3>
             <p align="center">
         <a href="https://github.com/Pascal-Projects/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal-Projects&langs_count=6&theme=synthwave&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats-pascal-projects.vercel.app/api/top-langs/?username=Pascal-Projects&langs_count=6&theme=synthwave&layout=compact&hide_border=true"
           alt="Pascal-Projects
  :: overall Top Langs " /></a>
       </p>
  <h3>stasistic</h3>
         <p align="center">
           <a href="https://github.com/Pascal-Projects/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pascal-Projects&show_icons=true&theme=synthwave&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats-pascal-projects.vercel.app/api?username=Pascal-Projects&show_icons=true&theme=synthwave&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pascal-Projects&theme=synthwave&hide_border=true" />
           </a>
        </p>
