@@ -2,7 +2,7 @@
 <div align="center">
 <div display="inline-block" text-align="left">
 Hi, I’m Pascal, <br>
-I’m interested in Python, Java and Web Development <br><br>
+I’m a hobby-developer and I currently still in school<br><br>
 </div>
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a)](https://discord.com/users/852617434703855616) -->
   <img width="49.5%" src="https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a" />
