@@ -1,7 +1,7 @@
 <h2 align="center"> About me </h2>
 <div align="center">
 <div display="inline-block" text-align="left">
-Hi, I’m Pascal, <br>
+<h1>Hi, I’m Pascal</h1>
 I’m a hobby-developer<br><br>
 </div>
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a)](https://discord.com/users/852617434703855616) -->
