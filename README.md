@@ -5,7 +5,7 @@
 I’m a hobby-developer<br><br>
 </div>
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a)](https://discord.com/users/852617434703855616) -->
-  <img width="49.5%" src="https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a" />
+  <img width="49.5%" src="https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a" alt="Discord Presence"/>
 </div>
 
 
