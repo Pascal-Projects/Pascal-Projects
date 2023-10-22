@@ -1,7 +1,8 @@
 <div align="center">
 <div display="inline-block" text-align="left">
 <h1>Hi, I’m Pascal</h1>
-I’m a student and hobby-developer<br><br>
+I’m a student and hobby-developer <br>
+<a href="https://pascal-projects.me">My Website</a><br><br>
 </div>
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a)](https://discord.com/users/852617434703855616) -->
   <img width="49.5%" src="https://lanyard.cnrad.dev/api/852617434703855616?idleMessage=Just%20vibing...&bg=2b213a" alt="Discord Presence"/>
